@@ -1,0 +1,29 @@
+{
+  "name": "bullet.css",
+  "version": "0.0.0",
+  "description": "CSS bullet formatting for lists",
+  "author": "Ryan Van Etten",
+  "license": "ISC",
+  "main": "bullet.css",
+  "homepage": "https://github.com/ryanve/bullet.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanve/bullet.css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ryanve/bullet.css/issues"
+  },
+  "keywords": [
+    "typography",
+    "formatting",
+    "functional-css",
+    "list-style-type",
+    "list-style",
+    "list-item",
+    "bullets",
+    "bullet",
+    "lists",
+    "list",
+    "css"
+  ]
+}

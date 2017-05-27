@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en-US" class="on-white">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CSS bullet formatting module</title>
+
+<link rel="stylesheet" href="bullet.css">
+
+<style>
+  :focus { outline-color: Black; }
+  :link, :visited { color: inherit }
+  .on-white { background: WhiteSmoke; color: Black }
+  .on-brand { background: PowderBlue; color: Black }
+  html { font: 1.125em/2 sans-serif }
+  .pad { padding: 1rem }
+  .natural { display: table }
+  .flow { margin: 0 0 1rem }
+</style>
+
+<a class="flow pad natural on-brand" href="https://github.com/ryanve/bullet.css">bullet.css</a>
+
+<figure class="flow">
+  <figcaption><code>ul.bullet-none</code></figcaption>
+  <ul class="flow bullet-none">
+    <li>list-item
+    <li>list-item
+  </ul>
+</figure>
+
+<figure class="flow">
+  <figcaption><code>li.bullet-none</code></figcaption>
+  <ul class="flow">
+    <li class="bullet-none">list-item
+    <li class="bullet-none">list-item
+  </ul>
+</figure>
