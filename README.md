@@ -1,6 +1,6 @@
 # bullet.css
 
-## Classes
+## [Classes](bullet.css)
 
 - work on `li` itself or its `ul` or `ol` to affect all children
 - only apply `list-item` display
@@ -17,7 +17,7 @@
 ### `.bullet-none`
 - sets `list-style` to `none`
 
-## Examples
+## [Examples](https://ryanve.github.io/bullet.css/)
 
 ### `ul` example
 
