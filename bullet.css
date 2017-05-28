@@ -1,1 +1,4 @@
+.bullet-disc { list-style: disc }
+.bullet-circle { list-style: circle }
+.bullet-square { list-style: square }
 .bullet-none { list-style: none }

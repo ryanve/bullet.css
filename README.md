@@ -1,9 +1,23 @@
 # bullet.css
 
+## [Classes](bullet.css)
+
+- work on `li` itself or its `ul` or `ol` to affect all children
+- only apply `list-item` display
+
+### `.bullet-disc`
+- sets `list-style` to `disc`
+
+### `.bullet-circle`
+- sets `list-style` to `circle`
+
+### `.bullet-square`
+- sets `list-style` to `square`
+
 ### `.bullet-none`
-- Sets `list-style` to `none`
-- Can be used on `li` itself or its `ul` or `ol` to affect all children
-- Works only when `display` is `list-item`
+- sets `list-style` to `none`
+
+## [Examples](https://ryanve.github.io/bullet.css/)
 
 ### `ul` example
 
