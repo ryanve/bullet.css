@@ -36,3 +36,13 @@
   <li class="bullet-none">item
 </ul>
 ```
+
+## [Setup](https://www.npmjs.com/package/bullet.css)
+
+```
+npm install bullet.css
+```
+
+```css
+@import 'node_modules/bullet.css/bullet';
+```
