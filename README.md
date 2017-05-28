@@ -32,9 +32,7 @@
 
 ```html
 <ul>
-  <li class="bullet-circle">item
-  <li class="bullet-circle">item
-  <li class="bullet-circle">item
-  <li class="bullet-circle">item
+  <li class="bullet-none">item
+  <li class="bullet-none">item
 </ul>
 ```
